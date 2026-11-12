@@ -1,0 +1,13 @@
+{
+  "name": "backend-project",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "dependencies": {
+    "all": "^0.0.0"
+  }
+}
